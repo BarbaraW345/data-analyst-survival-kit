@@ -1,5 +1,6 @@
 # Hall of Fame
 
+- Vanesa
 - BarbaraW345
 - Adrienn
 - schijes
@@ -23,3 +24,4 @@
 - @GitWizard9 (Dennis)
 - Christinedous93
 - Dianelamujica
+- Johannes Baltzer(JohBal26)
